@@ -5,13 +5,13 @@ Fonctionnalités: Extraction des trames depuis un fichier Wireshark au format .t
 
 
 Classification des informations en colonnes :
-        Temps
-        Adresse IP source
-        Adresse IP destination
-        Protocole
-        Flags
-        Numéros de séquence et accusé de réception
-        Taille de fenêtre et longueur du paquet
+        Temps,
+        Adresse IP source,
+        Adresse IP destination,
+        Protocole,
+        Flags,
+        Numéros de séquence et accusé de réception,
+        Taille de fenêtre et longueur du paquet.
     Génération d'un fichier .csv structuré pour un traitement ultérieur ou une analyse.
     Visualisation des données avec un diagramme des occurrences d'adresses IP.
 ![image](https://github.com/user-attachments/assets/422ac32a-b9bb-47dd-86f7-f6bc7166520b)
