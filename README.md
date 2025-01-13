@@ -1,10 +1,10 @@
 Analyseur de Trames Wireshark
 
 Ce projet Python permet d'analyser un fichier exporté depuis Wireshark au format .txt et de produire un fichier .csv contenant les informations essentielles classées, telles que les adresses IP source et destination, le protocole utilisé, les flags, les numéros de séquence, et plus encore.
-Fonctionnalités Extraction des trames depuis un fichier Wireshark au format .txt.
+Fonctionnalités: Extraction des trames depuis un fichier Wireshark au format .txt.
+
+
 Classification des informations en colonnes :
-
-
         Temps
         Adresse IP source
         Adresse IP destination
